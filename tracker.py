@@ -2,9 +2,9 @@ import requests
 import time
 
 # global variables
-api_key = '7ba8dae2-54ad-41d3-a1e3-c45671a16f8f'
-bot_token = '5991899254:AAGUi0fWc2bcFOcep6kDlSHNvnQxnfhxfy0'
-chat_id = 5212878443
+api_key = '###INSERT API KEY FOR COINMARKETCAP###'
+bot_token = '###INSERT TELEGRAM BOT TOKEN ID###'
+chat_id = ###INSERT CHAT ID###
 threshold = 30000
 time_interval = 5 * 60 # in seconds
 
